@@ -6,7 +6,7 @@ In this brief notes, it only contains the terms and topics and I am interested i
 * Two key parts: feature selection and expectation maximization (EM)
 * [The examples of clustering algorithms](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html/2): 
 * distance-based methods: k-means and k-medians
-* density and grid-based methods: __DBSCAN__
+* density and grid-based methods: [**DBSCAN**](<https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf>)
 * matrix factorization-based methods: it is for the data which is represented as sparse nonnegative matrices -- co-clustering.
 * spectral-based methods: Working with the defined underlying similarity matrix
 * graph-based methods: clustering data by converting the similarity matrix to be a network structure.
@@ -47,7 +47,7 @@ In this brief notes, it only contains the terms and topics and I am interested i
 			* make the model more robust
 			* contribute to the invariance to translation and rotation
 		* **Channels**: different perspectives to understand the data. Convolution operation can be applied across channels. Each channel can be a different representation of the data. 
-* Long short term memory network (LSTM): a recurrent neural network  which is optimized for learning from and acting upon time-related data which may have undefined or unknown lengths of time between eents of relevance. 
+* Long short term memory network (LSTM): a recurrent neural network  which is optimized for learning from and acting upon time-related data which may have undefined or unknown lengths of time. 
 
 ### Descriptive statistics: A set of statistical tools for quantitatively describing or summarizing a collection of data
 * Population: a selected individual or group representing the full set of members of a certain group of interest
