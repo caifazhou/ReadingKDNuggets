@@ -64,7 +64,7 @@ In this brief notes, it only contains the terms and topics and I am interested i
 Terms about **database**, **predicitve analytics**, **cloud computing**, **Hadoop and Apache Spark**, **IoT**, **NLP** can be referred to [the original blog](http://www.kdnuggets.com/2017/09/data-science-key-terms-explained.html).
 
 ## [Top 10 machine learning algorithms](http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html)
-All the method mentioned in this part are implemented in [**scikit-learn**](http://scikit-learn.org/stable/index.html) python library.
+All the methods mentioned in this part are implemented in [**scikit-learn**](http://scikit-learn.org/stable/index.html) python library.
 * [Ensemble methods](<http://www.kdnuggets.com/2016/02/ensemble-methods-techniques-produce-improved-machine-learning.html>):  construct a set of classifiers and then classify new data points by taking a weighted vote of their predictions, including **Bayesian averaging**, **error-correcting output coding**, **bagging (bootstrapping)**, and **boosting**. The advantages of ensemble methods are:  
   * average out the bias;
   * reduce the variance;
@@ -83,7 +83,7 @@ All the method mentioned in this part are implemented in [**scikit-learn**](http
   * PCA, SVD, and independent component analysis (ICA).
     * PCA: a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components.
     * SVD: PCA is actually a simple application of SVD.
-    * ICA: defines a generative model for the observed multivariate data, which is typically given as a large database of samples.
+    * [ICA](<http://wwwf.imperial.ac.uk/~nsjones/TalkSlides/HyvarinenSlides.pdf>): defines a generative model for the observed multivariate data, which is typically given as a large database of samples.
 ![](https://cdn-images-1.medium.com/max/800/1*RBN-qGYgTFlsxzfORsqoEg.png)
 
 ## [The top 15 Python packages](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
