@@ -1,4 +1,5 @@
 # Notes of Reading KDNuggets
+This notes is written while reading Blogs from [**KDNuggets**] (http://www.kdnuggets.com/).  
 In this brief notes, it only contains the terms and topics and I am interested in, but not familiar enough. For complete content, please refer to the originals.
 ## [227 data science key terms](http://www.kdnuggets.com/2017/09/data-science-key-terms-explained.html)
 ### Clustering: An unsupervised learning technique aiming at "maximizing the intraclass similarity and minimizing the interclass similarity". 
