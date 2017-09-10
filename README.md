@@ -85,3 +85,16 @@ All the method mentioned in this part are implemented in [**scikit-learn**](http
     * SVD: PCA is actually a simple application of SVD.
     * ICA: defines a generative model for the observed multivariate data, which is typically given as a large database of samples.
 ![](https://cdn-images-1.medium.com/max/800/1*RBN-qGYgTFlsxzfORsqoEg.png)
+
+## [The top 15 Python packages](http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html)
+* For visualization:  
+  * [Matplotlib](<https://matplotlib.org/>): easy to use and similar to matlab visualization functions.
+  * [Seaborn](<https://seaborn.pydata.org/index.html>): mostly focused on the visualization of statistical models. It is based on Matplotlib.
+  * [Bokeh](<https://bokeh.pydata.org/en/latest/>): aims at interactive visualizations. It is independent of Matplotlib and it represents the data via browsers (**d3.js**).
+  * [Plotly](<https://plot.ly/python/>): a web-based toolbox for building visualization
+* For modeling and machine learning:
+  * [Gensim](<https://radimrehurek.com/gensim/>): tools for work with vector space modeling and topic modeling, e.g., large texts
+* For data mining and statistics
+  * [Scrapy](<https://scrapy.org/>): a library for making crawling programs, also known as spider bots, for retrieval of the structured data, such as contact info or URLs, from the web.
+  * [Statsmodels] (<http://www.statsmodels.org/stable/index.html>): a library for Python that enables its users to conduct data exploration via the use of various methods of estimation of statistical models and performing statistical assertions and analysis.  
+In the [blog](<http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html>), it also includes packages for numerical analysis (***numpy, scipy***)reading data (***Pandas***), machine learning (***scikit-learn***), deep learning (***tensorlfow, theano, keras***), and natural language processing (***nltk***).
