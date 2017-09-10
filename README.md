@@ -96,5 +96,5 @@ All the method mentioned in this part are implemented in [**scikit-learn**](http
   * [Gensim](<https://radimrehurek.com/gensim/>): tools for work with vector space modeling and topic modeling, e.g., large texts
 * For data mining and statistics
   * [Scrapy](<https://scrapy.org/>): a library for making crawling programs, also known as spider bots, for retrieval of the structured data, such as contact info or URLs, from the web.
-  * [Statsmodels] (<http://www.statsmodels.org/stable/index.html>): a library for Python that enables its users to conduct data exploration via the use of various methods of estimation of statistical models and performing statistical assertions and analysis.  
+  * [Statsmodels](<http://www.statsmodels.org/stable/index.html>): a library for Python that enables its users to conduct data exploration via the use of various methods of estimation of statistical models and performing statistical assertions and analysis.  
 In the [blog](<http://www.kdnuggets.com/2017/06/top-15-python-libraries-data-science.html>), it also includes packages for numerical analysis (***numpy, scipy***)reading data (***Pandas***), machine learning (***scikit-learn***), deep learning (***tensorlfow, theano, keras***), and natural language processing (***nltk***).
